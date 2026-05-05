@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+/data
+*.db
+*.sqlite
+*.xlsx
+*.csv
+
+# Mac
+.DS_Store
